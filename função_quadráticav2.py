@@ -2,7 +2,7 @@ import math
 import matplotlib.pyplot as plt
 
 # --- ÁREA DAS FERRAMENTAS (FUNÇÕES) ---
-# Aqui nós apenas "ensinamos" o Python, não estamos executando nada ainda.
+
 
 def resolver_bhaskara(a, b, c):
     """
@@ -71,4 +71,5 @@ ver_grafico = input("Deseja ver o gráfico? (s/n): ")
 if ver_grafico.lower() == 's':
     gerar_grafico(val_a, val_b, val_c)
 else:
+
     print("Ok, encerrando o programa.")
