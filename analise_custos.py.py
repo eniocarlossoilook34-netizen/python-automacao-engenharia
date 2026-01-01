@@ -62,7 +62,7 @@ if os.path.exists(arquivo_excel):
 
         plt.tight_layout()
         
-        # Salva o gráfico na pasta para você postar no LinkedIn
+        # Salva o gráfico na pasta 
         plt.savefig("Relatorio_Custos_Obra.png")
         print("🚀 SUCESSO! O arquivo 'Relatorio_Custos_Obra.png' foi salvo na sua pasta.")
         
@@ -73,4 +73,5 @@ if os.path.exists(arquivo_excel):
 
 else:
     print("❌ Arquivo não encontrado. Verifique se está na pasta correta!")
+
     
