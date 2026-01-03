@@ -21,3 +21,5 @@ The simulation successfully captures flow separation features, including the sta
 
 ## Author
 Enio Oliveira - Engineering Student
+
+![Simulation Result](Navier_Stokes_Animation.gif)
